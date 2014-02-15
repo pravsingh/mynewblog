@@ -1,0 +1,4 @@
+mynewblog
+=========
+
+my new blog
