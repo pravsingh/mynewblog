@@ -4,7 +4,7 @@
   <title><![CDATA[Category: C1 | My Octopress Blog]]></title>
   <link href="http://yoursite.com/categories/c1/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-03-20T21:23:27-07:00</updated>
+  <updated>2014-03-20T21:36:12-07:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,28 +14,46 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test Post 3]]></title>
-    <link href="http://yoursite.com/c1/2014/03/20/test-post-3.html"/>
-    <updated>2014-03-20T21:23:21-07:00</updated>
-    <id>http://yoursite.com/c1/2014/03/20/test-post-3</id>
+    <title type="html"><![CDATA[Test Page -001]]></title>
+    <link href="http://yoursite.com/c3/c1/2014/03/20/test-page-001.html"/>
+    <updated>2014-03-20T21:35:56-07:00</updated>
+    <id>http://yoursite.com/c3/c1/2014/03/20/test-page-001</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Test Post 2]]></title>
-    <link href="http://yoursite.com/c1/c4/2014/03/20/test-post-2.html"/>
-    <updated>2014-03-20T21:23:16-07:00</updated>
-    <id>http://yoursite.com/c1/c4/2014/03/20/test-post-2</id>
+    <title type="html"><![CDATA[Test Page 25]]></title>
+    <link href="http://yoursite.com/c1/c25/2014/03/20/test-page-25.html"/>
+    <updated>2014-03-20T21:30:45-07:00</updated>
+    <id>http://yoursite.com/c1/c25/2014/03/20/test-page-25</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Test Post 1]]></title>
-    <link href="http://yoursite.com/c1/c4/c5/2014/03/20/test-post-1.html"/>
-    <updated>2014-03-20T21:23:10-07:00</updated>
-    <id>http://yoursite.com/c1/c4/c5/2014/03/20/test-post-1</id>
+    <title type="html"><![CDATA[Test Page 24]]></title>
+    <link href="http://yoursite.com/c1/c24/2014/03/20/test-page-24.html"/>
+    <updated>2014-03-20T21:30:45-07:00</updated>
+    <id>http://yoursite.com/c1/c24/2014/03/20/test-page-24</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Page 23]]></title>
+    <link href="http://yoursite.com/c1/c23/2014/03/20/test-page-23.html"/>
+    <updated>2014-03-20T21:30:45-07:00</updated>
+    <id>http://yoursite.com/c1/c23/2014/03/20/test-page-23</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Page 22]]></title>
+    <link href="http://yoursite.com/c1/c22/2014/03/20/test-page-22.html"/>
+    <updated>2014-03-20T21:30:45-07:00</updated>
+    <id>http://yoursite.com/c1/c22/2014/03/20/test-page-22</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
