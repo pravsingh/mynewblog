@@ -4,7 +4,7 @@
   <title><![CDATA[Category: C1 | My Octopress Blog]]></title>
   <link href="http://yoursite.com/categories/c1/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-03-20T21:21:49-07:00</updated>
+  <updated>2014-03-20T21:23:27-07:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,10 +14,28 @@
 
   
   <entry>
-    <title type="html"><![CDATA[India Got Talent4]]></title>
-    <link href="http://yoursite.com/c1/c4/c5/2014/03/20/india-got-talent4.html"/>
-    <updated>2014-03-20T21:21:44-07:00</updated>
-    <id>http://yoursite.com/c1/c4/c5/2014/03/20/india-got-talent4</id>
+    <title type="html"><![CDATA[Test Post 3]]></title>
+    <link href="http://yoursite.com/c1/2014/03/20/test-post-3.html"/>
+    <updated>2014-03-20T21:23:21-07:00</updated>
+    <id>http://yoursite.com/c1/2014/03/20/test-post-3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post 2]]></title>
+    <link href="http://yoursite.com/c1/c4/2014/03/20/test-post-2.html"/>
+    <updated>2014-03-20T21:23:16-07:00</updated>
+    <id>http://yoursite.com/c1/c4/2014/03/20/test-post-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post 1]]></title>
+    <link href="http://yoursite.com/c1/c4/c5/2014/03/20/test-post-1.html"/>
+    <updated>2014-03-20T21:23:10-07:00</updated>
+    <id>http://yoursite.com/c1/c4/c5/2014/03/20/test-post-1</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
