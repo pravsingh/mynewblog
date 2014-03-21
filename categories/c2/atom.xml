@@ -4,7 +4,7 @@
   <title><![CDATA[Category: C2 | My Octopress Blog]]></title>
   <link href="http://yoursite.com/categories/c2/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-03-21T00:36:48-07:00</updated>
+  <updated>2014-03-21T00:45:48-07:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[India Got Talent]]></title>
+    <link href="http://yoursite.com/c1/c2/2014/03/21/india-got-talent.html"/>
+    <updated>2014-03-21T00:39:46-07:00</updated>
+    <id>http://yoursite.com/c1/c2/2014/03/21/india-got-talent</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Page 2]]></title>
