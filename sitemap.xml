@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/c1/c4/c5/2014/03/20/test-post-1.html</loc>
-        <lastmod>2014-03-20T21:23:10-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/c1/c4/2014/03/20/test-post-2.html</loc>
-        <lastmod>2014-03-20T21:23:16-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/c1/2014/03/20/test-post-3.html</loc>
-        <lastmod>2014-03-20T21:23:21-07:00</lastmod>
-    </url>
-    <url>
         <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2014-03-20T21:23:21-07:00</lastmod>
+        <lastmod>2014-02-08T23:17:48-08:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/</loc>
-        <lastmod>2014-03-20T21:23:21-07:00</lastmod>
+        <lastmod>2014-02-08T23:17:48-08:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/robots.txt</loc>
