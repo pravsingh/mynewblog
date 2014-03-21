@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: C5 | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/categories/c5/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-03-20T21:15:01-07:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[India Got Talent3]]></title>
+    <link href="http://yoursite.com/c2/c3/c5/2014/03/20/india-got-talent3.html"/>
+    <updated>2014-03-20T20:39:13-07:00</updated>
+    <id>http://yoursite.com/c2/c3/c5/2014/03/20/india-got-talent3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

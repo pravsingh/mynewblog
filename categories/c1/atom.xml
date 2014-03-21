@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: C1 | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/categories/c1/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-03-20T21:15:01-07:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[India Got Talent]]></title>
+    <link href="http://yoursite.com/c1/c2/c2%20c3/2014/03/19/india-got-talent.html"/>
+    <updated>2014-03-19T10:29:50-07:00</updated>
+    <id>http://yoursite.com/c1/c2/c2%20c3/2014/03/19/india-got-talent</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://yoursite.com/c1/c3/2014/02/23/hello-octopress.html"/>
+    <updated>2014-02-23T20:08:36-08:00</updated>
+    <id>http://yoursite.com/c1/c3/2014/02/23/hello-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Title]]></title>
+    <link href="http://yoursite.com/c1/c2/2014/02/18/test-title.html"/>
+    <updated>2014-02-18T23:35:35-08:00</updated>
+    <id>http://yoursite.com/c1/c2/2014/02/18/test-title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
