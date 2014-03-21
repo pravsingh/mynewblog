@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: C24 | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/categories/c24/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-03-21T00:47:18-07:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: C24 | movie blog]]></title>
+  <link href="http://anynewmovies.com/categories/c24/atom.xml" rel="self"/>
+  <link href="http://anynewmovies.com/"/>
+  <updated>2014-03-21T00:56:25-07:00</updated>
+  <id>http://anynewmovies.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[admin]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test Page 24]]></title>
-    <link href="http://yoursite.com/c1/c24/2014/03/20/test-page-24.html"/>
+    <link href="http://anynewmovies.com/c1/c24/2014/03/20/test-page-24.html"/>
     <updated>2014-03-20T21:30:45-07:00</updated>
-    <id>http://yoursite.com/c1/c24/2014/03/20/test-page-24</id>
+    <id>http://anynewmovies.com/c1/c24/2014/03/20/test-page-24</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
