@@ -48,12 +48,25 @@
   
 </ul>
   
-<form action="http://google.com/search" method="get">
+<!-- <form action="http://google.com/search" method="get">
   <fieldset role="search">
     <input type="hidden" name="q" value="site:anynewmovies.com" />
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
-</form>
+</form> -->
+<script>
+  (function() {
+    var cx = '009790178230273812509:wi6nrehfaum';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
   
 <ul class="main-navigation">
   <li><a href="/">Home</a></li>
